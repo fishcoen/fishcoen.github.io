@@ -17,14 +17,14 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0'
+        ruby-version: '3.1'
         bundler-cache: true
         
     - name: Install dependencies
       run: |
-        bundle config set --local deployment 'true'
+        bundle config set --local deployment 'false'
         bundle config set --local without 'development test'
-        bundle install
+        bundle install --retry=3
         
     - name: Build Jekyll site
       run: bundle exec jekyll build
