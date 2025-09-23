@@ -37,11 +37,11 @@ jobs:
         name: jekyll-site
         path: _site/
         
-    - name: Deploy to Cloudflare Pages
-      uses: cloudflare/pages-action@v1
-      with:
-        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        projectName: github-blog
-        directory: _site
-        gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+    # - name: Deploy to Cloudflare Pages
+    #   uses: cloudflare/pages-action@v1
+    #   with:
+    #     apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    #     accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    #     projectName: github-blog
+    #     directory: _site
+    #     gitHubToken: ${{ secrets.GITHUB_TOKEN }}
