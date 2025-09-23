@@ -1,8 +1,8 @@
-- title: 首页
+- title: HOME
   url: /
-- title: 分类
+- title: CATEGORIES
   url: /categories/
-- title: 标签
+- title: TAGS
   url: /tags/
 - title: ARCHIVES
   url: /archives/
