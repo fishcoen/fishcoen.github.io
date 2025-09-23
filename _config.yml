@@ -16,7 +16,7 @@ timezone:
 
 title: FishCoen # the main title - updated
 
-tagline: 一条菜鱼博客 # it will display as the subtitle
+tagline: 一条菜鱼的博客 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   分享技术新闻、学习笔记和开源项目。
@@ -100,7 +100,7 @@ cdn: https://zeroisall.fun
 avatar: https://github.com/fishcoen.png
 
 # favicon settings
-favicon: https://github.com/fishcoen.png
+favicon: https://github.com/cotes2020/chirpy-static-assets/raw/02f4ada65dc75197654c3265a37a6f5fbc39f17c/assets/img/favicon.ico
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
