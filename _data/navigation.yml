@@ -1,10 +1,10 @@
-- title: HOME
+- title: 首页
   url: /
-- title: CATEGORIES
+- title: 分类
   url: /categories/
-- title: TAGS
+- title: 标签
   url: /tags/
-- title: ARCHIVES
+- title: 归档
   url: /archives/
-- title: ABOUT
+- title: 关于
   url: /about/
