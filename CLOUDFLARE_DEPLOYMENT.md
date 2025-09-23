@@ -97,12 +97,12 @@ _site
    ```
    类型: CNAME
    名称: @
-   目标: fishcoen.pages.dev
+   目标: fishcoen-github-io.pages.dev
    TTL: Auto
    
    类型: CNAME  
    名称: www
-   目标: fishcoen.pages.dev
+   目标: fishcoen-github-io.pages.dev
    TTL: Auto
    ```
 
@@ -117,13 +117,13 @@ _site
    记录类型: CNAME
    主机记录: @
    解析路线: 默认
-   记录值: fishcoen.pages.dev
+   记录值: fishcoen-github-io.pages.dev
    TTL: 600
    
    记录类型: CNAME
    主机记录: www  
    解析路线: 默认
-   记录值: fishcoen.pages.dev
+   记录值: fishcoen-github-io.pages.dev
    TTL: 600
    ```
 
