@@ -1,43 +1,58 @@
-# Chirpy Starter
+# 一条菜鱼的博客
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![网站状态](https://img.shields.io/website?url=https://zeroisall.fun)][website]
+[![GitHub license](https://img.shields.io/github/license/fishcoen/fishcoen.github.io.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+欢迎来到我的个人博客！这是一个基于 [**Chirpy**][chirpy] 主题构建的 Jekyll 静态网站。
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 📝 关于我
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+我是 **FishCoen**，一个杂学爱好者，热爱技术、佛学、物理学、数学和 AI 新技术。
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+## 🎯 博客内容
+
+这个博客主要分享：
+
+- **技术新闻** - 最新的技术动态和趋势
+- **学习笔记** - 技术学习和实践经验
+- **项目分享** - 开源项目和技术探索
+- **生活感悟** - 学习心得和思考
+
+## 🛠️ 技术栈
+
+- **静态网站生成器**: Jekyll
+- **主题**: Chirpy
+- **部署平台**: Cloudflare Pages
+- **域名**: zeroisall.fun
+- **CDN**: Cloudflare
+
+## 📱 访问方式
+
+- **网站地址**: [https://zeroisall.fun](https://zeroisall.fun)
+- **GitHub 仓库**: [fishcoen/fishcoen.github.io](https://github.com/fishcoen/fishcoen.github.io)
+
+## 🔧 本地开发
+
+如果你想在本地运行这个博客：
+
+```bash
+# 克隆仓库
+git clone https://github.com/fishcoen/fishcoen.github.io.git
+
+# 进入目录
+cd fishcoen.github.io
+
+# 安装依赖
+bundle install
+
+# 启动本地服务器
+bundle exec jekyll serve
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## 📄 许可证
 
-## Usage
+本项目采用 [MIT][mit] 许可证。
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[website]: https://zeroisall.fun
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[mit]: https://github.com/fishcoen/fishcoen.github.io/blob/main/LICENSE
