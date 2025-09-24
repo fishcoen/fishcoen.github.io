@@ -230,7 +230,15 @@ jekyll-archives:
 hide_theme_attribution: true
 
 # Math support
-mathjax: true
+math:
+  enable: true
+  engine: mathjax
+  mathjax:
+    version: 3.2.0
+    config:
+      tex:
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
 
 # Mermaid support
 mermaid:
@@ -243,5 +251,7 @@ plugins:
   - kramdown-plantuml
 
 kramdown:
+  input: GFM
+  hard_wrap: false
   plantuml:
     server: "https://www.plantuml.com/plantuml/svg/"
