@@ -31,8 +31,11 @@ jobs:
       env:
         JEKYLL_ENV: production
         
-    - name: Upload build artifacts
-      uses: actions/upload-artifact@v4
+    - name: Deploy to Cloudflare Pages
+      uses: cloudflare/pages-action@v1
       with:
-        name: jekyll-site
-        path: _site/
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        projectName: github-blog
+        directory: _site
+        gitHubToken: ${{ secrets.GITHUB_TOKEN }}
