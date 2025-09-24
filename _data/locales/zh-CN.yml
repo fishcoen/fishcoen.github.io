@@ -1,0 +1,8 @@
+# 简体中文语言包
+# 用于覆盖 Chirpy 主题的默认中文配置
+
+copyright:
+  license:
+    template: ""  # 清空版权声明模板
+    name: ""      # 清空许可证名称
+    link: ""      # 清空许可证链接
