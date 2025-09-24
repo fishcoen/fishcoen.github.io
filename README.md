@@ -31,3 +31,4 @@
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [mit]: https://github.com/fishcoen/fishcoen.github.io/blob/main/LICENSE
 
+<!-- Auto-deployment test -->
