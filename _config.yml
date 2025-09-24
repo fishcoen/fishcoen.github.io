@@ -243,7 +243,7 @@ math:
 # Mermaid support
 mermaid:
   enable: true
-  version: 9.4.3
+  version: 10.9.0
   theme: default
 
 # PlantUML support
