@@ -228,7 +228,3 @@ jekyll-archives:
 
 # Hide theme attribution
 hide_theme_attribution: true
-
-# Custom CSS
-custom_css:
-  - assets/css/custom.css
