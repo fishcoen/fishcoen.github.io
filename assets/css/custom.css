@@ -1,0 +1,79 @@
+/* 自定义文章内容字体大小 */
+
+/* 文章正文字体大小 */
+.post-content {
+    font-size: 16px; /* 默认字体大小 */
+    line-height: 1.6; /* 行高 */
+}
+
+/* 文章标题字体大小 */
+.post-content h1 {
+    font-size: 2.2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.post-content h2 {
+    font-size: 1.8em;
+    margin-top: 1.3em;
+    margin-bottom: 0.4em;
+}
+
+.post-content h3 {
+    font-size: 1.5em;
+    margin-top: 1.2em;
+    margin-bottom: 0.3em;
+}
+
+.post-content h4 {
+    font-size: 1.3em;
+    margin-top: 1.1em;
+    margin-bottom: 0.2em;
+}
+
+/* 段落字体大小 */
+.post-content p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 1em;
+}
+
+/* 代码块字体大小 */
+.post-content code {
+    font-size: 0.9em;
+}
+
+.post-content pre {
+    font-size: 0.85em;
+}
+
+/* 引用块字体大小 */
+.post-content blockquote {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* 列表字体大小 */
+.post-content ul, .post-content ol {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* 响应式设计 - 移动端字体调整 */
+@media (max-width: 768px) {
+    .post-content {
+        font-size: 15px;
+    }
+    
+    .post-content h1 {
+        font-size: 1.8em;
+    }
+    
+    .post-content h2 {
+        font-size: 1.5em;
+    }
+    
+    .post-content h3 {
+        font-size: 1.3em;
+    }
+}
