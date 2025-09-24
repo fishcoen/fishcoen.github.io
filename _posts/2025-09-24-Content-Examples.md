@@ -2,7 +2,7 @@
 layout: post
 title: 内容嵌入示例
 date: 2024-09-24 10:00:00 +0800
-categories: [技术, 示例]
+categories: [计算机, 示例]
 tags: [图片, 数学公式, UML图表]
 ---
 
