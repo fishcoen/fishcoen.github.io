@@ -230,15 +230,7 @@ jekyll-archives:
 hide_theme_attribution: true
 
 # Math support
-math:
-  enable: true
-  engine: mathjax
-  mathjax:
-    version: 3.2.0
-    config:
-      tex:
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+mathjax: true
 
 # Mermaid support
 mermaid:
