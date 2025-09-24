@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PlantUML 图表示例
-date: 2025-09-24 11:00:00 +0800
+date: 2024-09-24 11:00:00 +0800
 categories: [技术, 示例]
 tags: [PlantUML, UML, 图表]
 ---
