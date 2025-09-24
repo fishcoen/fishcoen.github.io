@@ -245,3 +245,11 @@ mermaid:
   enable: true
   version: 9.4.3
   theme: default
+
+# PlantUML support
+plugins:
+  - kramdown-plantuml
+
+kramdown:
+  plantuml:
+    server: "https://www.plantuml.com/plantuml/svg/"
