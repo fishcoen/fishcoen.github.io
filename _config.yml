@@ -225,3 +225,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Hide theme attribution
+hide_theme_attribution: true
