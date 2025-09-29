@@ -1,0 +1,17 @@
+/* 隐藏侧边栏的最新更新和热门标签模块 */
+#panel-wrapper .panel-lastmod,
+#panel-wrapper .panel-trending_tags,
+.panel-lastmod,
+.panel-trending_tags,
+#latest-posts,
+#trending-tags,
+.latest-posts,
+.trending-tags {
+    display: none !important;
+}
+
+/* 如果上面的选择器不够，尝试更通用的选择器 */
+#panel-wrapper > div:nth-child(2),
+#panel-wrapper > div:nth-child(3) {
+    display: none !important;
+}
