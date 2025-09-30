@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <伤寒论>核心思想
+title: 《伤寒论》核心思想
 date: 2025-09-30 10:00:00 +0800
 categories: 中医
 tags: [伤寒论, 张仲景, 六经辨证, 中医经典]
