@@ -2,7 +2,7 @@
 layout: post
 title: 伪装的原则
 date: 2025-09-28 10:00:00 +0800
-categories: 计算机
+categories: [计算机, 社会工程]
 tags: [社会工程]
 ---
 
