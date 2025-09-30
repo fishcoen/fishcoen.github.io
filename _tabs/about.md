@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 关于我
-
-欢迎来到我的博客！我是 **FishCoen**, 欢迎来到我的blog.
+### 欢迎来到我的博客！我是 **FishCoen**, 感谢你的访问！🎉
 
 ## 📚 兴趣爱好
 
@@ -20,8 +18,5 @@ order: 4
 
 ## 🔗 友情链接
 
-- [示例页面](http://example.zeroisall.fun/) - 快乐每一天，致力于创新和可持续发展
+- [快乐每一天](http://example.zeroisall.fun/)
 
-
-
-感谢你的访问！🎉
