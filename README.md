@@ -22,6 +22,10 @@
 - **网站地址**: [https://zeroisall.fun](https://zeroisall.fun)
 - **GitHub 仓库**: [fishcoen/fishcoen.github.io](https://github.com/fishcoen/fishcoen.github.io)
 
+## 🔗 友情链接
+
+- [示例页面](http://example.zeroisall.fun/) - 快乐每一天，致力于创新和可持续发展
+
 
 ## 📄 许可证
 
