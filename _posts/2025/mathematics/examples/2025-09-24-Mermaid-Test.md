@@ -2,7 +2,7 @@
 layout: post
 title: Mermaid 图表测试
 date: 2025-09-24 10:00:00 +0800
-categories: 示例
+categories: [数学, 示例]
 tags: [Mermaid, 图表, 测试]
 ---
 
