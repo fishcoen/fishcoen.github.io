@@ -1,9 +1,0 @@
-/* 隐藏标题锚点链接 */
-.anchor {
-    display: none !important;
-}
-
-/* 或者只隐藏悬停时显示的#符号 */
-.heading:hover .anchor {
-    display: none !important;
-}
