@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 物理学导论
-date: 2025-10-01 12:00:00 +0800
+date: 2025-9-30 12:00:00 +0800
 categories: [自然学科, 物理学]
 tags: [物理学, 基础理论, 自然学科]
-featured: true
 ---
 
 # 物理学导论
