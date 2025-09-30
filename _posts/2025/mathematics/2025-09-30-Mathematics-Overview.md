@@ -4,6 +4,7 @@ title: 数学概述
 date: 2025-09-30 11:00:00 +0800
 categories: 数学
 tags: [数学, 基础理论]
+featured: true
 ---
 
 # 数学概述
