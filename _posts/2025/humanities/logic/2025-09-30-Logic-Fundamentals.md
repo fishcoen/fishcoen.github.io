@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 逻辑学基础
-date: 2025-09-30 14:00:00 +0800
+date: 2025-10-01 14:00:00 +0800
 categories: [人文学科, 逻辑学]
 tags: [逻辑学, 人文学科, 推理, 论证]
 featured: true
