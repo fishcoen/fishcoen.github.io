@@ -23,6 +23,10 @@ order: 4
 - **GitHub**: [fishcoen](https://github.com/fishcoen)
 - **网站**: [zeroisall.fun](https://zeroisall.fun)
 
+## 🔗 友情链接
+
+- [示例页面](http://example.zeroisall.fun/) - 快乐每一天，致力于创新和可持续发展
+
 ## 📝 博客内容
 
 这个博客主要分享：
