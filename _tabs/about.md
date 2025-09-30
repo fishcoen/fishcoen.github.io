@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### 欢迎来到我的博客！我是 **FishCoen**, 感谢你的访问！🎉
+### 我是 **FishCoen**, 感谢你的访问！🎉
 
 ## 📚 兴趣爱好
 
