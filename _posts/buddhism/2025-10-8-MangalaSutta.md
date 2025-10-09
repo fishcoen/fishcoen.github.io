@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 吉祥经 (Mangala Sutta)
-date: 2025-09-23 10:00:00 +0800
+date: 2025-10-8 10:00:00 +0800
 categories: 佛学
 tags: [佛学]
 ---
