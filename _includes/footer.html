@@ -1,15 +1,3 @@
-<!-- 隐藏阅读时间 -->
-<style>
-  /* 隐藏博文中的阅读时间显示 */
-  .post-meta .read-time,
-  .post-meta [data-read-time],
-  .post-meta .reading-time,
-  .post-meta time[data-read-time],
-  .post-meta .post-reading-time {
-    display: none !important;
-  }
-</style>
-
 <!-- MathJax 支持 -->
 <script>
   MathJax = {
@@ -33,32 +21,5 @@
       theme: 'default',
       securityLevel: 'loose'
     });
-    
-    // 使用 JavaScript 隐藏阅读时间（作为 CSS 的补充）
-    const hideReadingTime = function() {
-      const postMeta = document.querySelector('.post-meta');
-      if (postMeta) {
-        const spans = postMeta.querySelectorAll('span');
-        spans.forEach(span => {
-          const text = span.textContent || span.innerText;
-          if (text.includes('阅读') && text.includes('分钟')) {
-            span.style.display = 'none';
-          }
-        });
-      }
-    };
-    
-    // 页面加载完成后执行
-    hideReadingTime();
-    
-    // 监听动态内容变化
-    const observer = new MutationObserver(hideReadingTime);
-    const targetNode = document.body;
-    if (targetNode) {
-      observer.observe(targetNode, {
-        childList: true,
-        subtree: true
-      });
-    }
   });
 </script>
