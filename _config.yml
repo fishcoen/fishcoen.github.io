@@ -74,7 +74,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: google
+  provider: busuanzi  # 使用不蒜子统计，无需 API 配置，更简单可靠
 
 # Prefer color scheme setting.
 #
