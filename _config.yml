@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: FishCoen # the main title - updated
+title: BoredFish # the main title - updated
 
-tagline: 一条菜鱼的博客 # it will display as the subtitle
+tagline: 一条无聊的鱼 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   分享技术新闻、学习笔记和开源项目。
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: fishcoen
+  name: BoredFish
   # email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
