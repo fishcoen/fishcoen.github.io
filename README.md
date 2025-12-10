@@ -1,11 +1,7 @@
-# 一条菜鱼的博客
+# 一条无聊的鱼
 
 [![网站状态](https://img.shields.io/website?url=https://zeroisall.fun)][website]
 [![GitHub license](https://img.shields.io/github/license/BoredFish1/fishcoen.github.io.svg?color=blue)][mit]
-
-## 📝 关于我
-
-我是 **FishCoen**，一条对计算机技术、佛学、物理学、数学感兴趣的菜鱼。
 
 ## 🎯 博客内容
 
