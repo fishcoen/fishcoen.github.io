@@ -14,7 +14,7 @@ order: 4
 
 ## 🌐 联系方式
 
-- **GitHub**: [fishcoen](https://github.com/fishcoen)
+- **GitHub**: [BoredFish1](https://github.com/BoredFish1)
 - **网站**: [zeroisall.fun](https://zeroisall.fun)
 
 ## 🔗 友情链接

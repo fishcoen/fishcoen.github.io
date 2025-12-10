@@ -1,7 +1,7 @@
 # 一条菜鱼的博客
 
 [![网站状态](https://img.shields.io/website?url=https://zeroisall.fun)][website]
-[![GitHub license](https://img.shields.io/github/license/fishcoen/fishcoen.github.io.svg?color=blue)][mit]
+[![GitHub license](https://img.shields.io/github/license/BoredFish1/fishcoen.github.io.svg?color=blue)][mit]
 
 ## 📝 关于我
 
@@ -20,7 +20,7 @@
 ## 📱 访问方式
 
 - **网站地址**: [https://zeroisall.fun](https://zeroisall.fun)
-- **GitHub 仓库**: [fishcoen/fishcoen.github.io](https://github.com/fishcoen/fishcoen.github.io)
+- **GitHub 仓库**: [BoredFish1/fishcoen.github.io](https://github.com/BoredFish1/fishcoen.github.io)
 
 ## 📄 许可证
 
@@ -28,6 +28,6 @@
 
 [website]: https://zeroisall.fun
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[mit]: https://github.com/fishcoen/fishcoen.github.io/blob/main/LICENSE
+[mit]: https://github.com/BoredFish1/fishcoen.github.io/blob/main/LICENSE
 
 <!-- Auto-deployment test -->
